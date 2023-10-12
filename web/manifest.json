@@ -1,6 +1,6 @@
 {
-    "name": "baseproject",
-    "short_name": "baseproject",
+    "name": "webview_test",
+    "short_name": "webview_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

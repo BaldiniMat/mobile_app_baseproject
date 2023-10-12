@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.MasterAppUniversity" "\0"
-            VALUE "FileDescription", "baseproject" "\0"
+            VALUE "CompanyName", "com.masterClaa" "\0"
+            VALUE "FileDescription", "webview_test" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "baseproject" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 com.MasterAppUniversity. All rights reserved." "\0"
-            VALUE "OriginalFilename", "baseproject.exe" "\0"
-            VALUE "ProductName", "baseproject" "\0"
+            VALUE "InternalName", "webview_test" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.masterClaa. All rights reserved." "\0"
+            VALUE "OriginalFilename", "webview_test.exe" "\0"
+            VALUE "ProductName", "webview_test" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
